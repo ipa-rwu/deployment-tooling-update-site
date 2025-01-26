@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/de.fraunhofer.ipa.deployment.feature_1.0.0.202501251206.jar" id="de.fraunhofer.ipa.deployment.feature" version="1.0.0.202501251206"/>
+   <feature url="features/de.fraunhofer.ipa.deployment.feature_1.0.0.202501261637.jar" id="de.fraunhofer.ipa.deployment.feature" version="1.0.0.202501261637"/>
    <feature url="features/de.fraunhofer.ipa.ros.feature_3.0.1.202501211652.jar" id="de.fraunhofer.ipa.ros.feature" version="3.0.1.202501211652"/>
 
 </site>
